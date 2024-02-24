@@ -67,16 +67,16 @@ Here are some key features of our Doctors Search Website:
 
 | Category                  | Area        |
 | :-----------------------: | :---------: |
-| Pediatrics                | Toronto     |
-| General Practice          | Ottawa      |
-| Orthopedics               | Hamilton    |
-| Ophthalmology             | Kitchener   |
-| Dermatology               | Markham     |
-| Psychiatry                | Brampton    |
-| General Practice          | Windsor     |
-| General Practice          | Toronto     |
-| Cardiology                | Kitchener   |
-| Obstetrics and Gynecology | Mississauga |
+| Pediatrics                | mumbai      |
+| General Practice          | pune        |
+| Orthopedics               | chinchwad   |
+| Ophthalmology             | nashik      |
+| Dermatology               | pimpri      |
+| Psychiatry                | pune        |
+| General Practice          | chinchwad   |
+| General Practice          | mumbai      |
+| Cardiology                | mumbai      |
+| Obstetrics and Gynecology | pune        |
 
 <br>
 <br>
@@ -94,7 +94,7 @@ Technologies used in the project:
 * MySQL
 * AJAX
 * phpMyAdmin
-* Postman
+
 
 <br>
 <br>
@@ -116,7 +116,7 @@ Contributions are highly appreciated! If you come across any issues or have sugg
 
 <P>Thank you for taking the time to explore the project. I hope it brings value and joy to those who use it.</P>
 
-<p>If you need any assistance or have any inquiries, please feel free to contact me <a href="mailto:2019271@iiitdmj.ac.in" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>If you need any assistance or have any inquiries, please feel free to contact me <a href="mailto:kunalkadam2762001@gmail.com" target="_blank" rel="noopener noreferrer">here</a>.</p>
 
 <br>
 
