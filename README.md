@@ -102,6 +102,6 @@ Contributions are highly appreciated! If you come across any issues or have sugg
 
 <br>
 
-<h3>Made with ❤️ by KRANTHI.</h3>
+<h3>Made with ❤️ by KUNAL KADAM.</h3>
 
 <br>
