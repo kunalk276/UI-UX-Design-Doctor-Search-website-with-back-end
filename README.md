@@ -3,7 +3,7 @@
 
 
 
-<p align="center"><br>![Screenshot 2024-02-05 192259](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/ba00f285-ac45-400e-9e87-3f139642139b)</p>
+
 
 
 <p align="center" id="description" > This project is a web-based doctor appointment booking system that allows users to easily find and schedule appointments with doctors. The website provides a user-friendly interface where users can search for doctors based on their location and specialty. Once the search is performed, the system retrieves relevant doctor information from a database and displays it to the user. Users can then select a doctor and request an appointment with just a few clicks. The system streamlines the process of finding and booking appointments, making it convenient for users to access medical care.</p>
@@ -26,10 +26,11 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/Doctors-Search-Website/main/Doctors-Search-Website.png" width="auto" height="auto">
+<img src="[Screenshot 2024-02-05 192259](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/38399f5c-f8df-41a1-8669-81e8595451500" width="auto" height="auto">
   
 <br>
 <br>
+
 
 <h2>💡 Key Features</h2>
 
