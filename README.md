@@ -1,8 +1,10 @@
 <h1 align="center" id="title">Doctors Search Website</h1>
 
-<br>
 
-<p align="center"><img src="https://socialify.git.ci/kranthikumarkaranam/Doctors-Search-Website/image?description=1&amp;descriptionEditable=Discover%20Top%20Medical%20Professionals%3A%20Streamline%20Your%20Search%20with%20the%20help%20of%20%20Doctors%20Search%20Website&amp;font=Raleway&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating%20Cogs&amp;theme=Auto" alt="project-image"></p>
+
+
+<p align="center"><br>![Screenshot 2024-02-05 192259](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/ba00f285-ac45-400e-9e87-3f139642139b)</p>
+
 
 <p align="center" id="description" > This project is a web-based doctor appointment booking system that allows users to easily find and schedule appointments with doctors. The website provides a user-friendly interface where users can search for doctors based on their location and specialty. Once the search is performed, the system retrieves relevant doctor information from a database and displays it to the user. Users can then select a doctor and request an appointment with just a few clicks. The system streamlines the process of finding and booking appointments, making it convenient for users to access medical care.</p>
 
