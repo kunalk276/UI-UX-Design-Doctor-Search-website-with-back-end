@@ -116,7 +116,8 @@ Contributions are highly appreciated! If you come across any issues or have sugg
 
 <P>Thank you for taking the time to explore the project. I hope it brings value and joy to those who use it.</P>
 
-<p>If you need any assistance or have any inquiries, please feel free to contact me <a href="mailto:kunalkadam2762001@gmail.com" target="_blank" rel="noopener noreferrer">here</a>.</p>
+<p>If you need any assistance or have any inquiries, please feel free to <a href="mailto:kunalkadam2762001@gmail.com?subject=UI/UX Inquiry" target="_blank" rel="noopener noreferrer">contact me</a>.</p>
+
 
 <br>
 
