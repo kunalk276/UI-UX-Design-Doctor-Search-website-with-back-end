@@ -15,7 +15,7 @@
 
 <p>Discover and Book Doctors with Ease: Experience our Doctors Search Website's intuitive interface and convenient features for finding and scheduling appointments with doctors effortlessly. Stay in control of your healthcare needs with efficiency and professionalism. Visit the provided link to explore the website in action.</p>
 
-**Live Preview** ➡️ <a href="https://doctors-appointment-5427.000webhostapp.com/" target="_blank" rel="noopener noreferrer">Demo</a>
+**Live Preview** ➡️ <a href="http://localhost/doctors/" target="_blank" rel="noopener noreferrer">Demo</a>
 
 <br>
 <br>
@@ -25,11 +25,29 @@
 <p>Take a glimpse into our Doctors Search Website through these captivating screenshots, showcasing its professional and user-friendly interface</p>
 
 <br>
-
-<img src="[Screenshot 2024-02-05 192259](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/38399f5c-f8df-41a1-8669-81e8595451500" width="auto" height="auto">
   
-<br>
-<br>
+<br>![Screenshot 2024-02-05 192259](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/2aa5c780-b237-49f4-b2a8-5328e24f6472)
+
+
+<br>![Screenshot 2024-02-05 192312](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/36b5bf28-04d5-43a9-b61b-0bef56131873)
+
+
+<br>![Screenshot 2024-02-05 192331](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/097da8e1-ce86-4ddb-91a5-c967a721712f)
+
+
+<br>![Screenshot 2024-02-05 192346](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/a7e40ddd-a129-4f2f-8896-dc893eede4a7)
+
+
+<br>![Screenshot 2024-02-05 192359](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/d8d79a3e-af35-41db-889d-6ba4f694bfcf)
+
+
+<br>![Screenshot 2024-02-05 192414](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/7b744ee9-932c-44ed-978a-c85982a9e0e4)
+
+
+<br>![Screenshot 2024-02-05 192430](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/2ea4f47b-f792-4861-b544-9a04808f60f3)
+
+
+<br>![Screenshot 2024-02-05 192442](https://github.com/kunalk276/UI-UX-Design-Doctor-Search-website-with-back-end/assets/155727841/41bbad0b-e648-4c61-9b2d-95cfc19ae875)
 
 
 <h2>💡 Key Features</h2>
